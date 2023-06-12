@@ -4,7 +4,7 @@
 
 ## Link
 
-- <https://patimi.github.io/gameGuess/>
+- <https://tennitien.github.io/mini-game-guess-number-js/>
 
 ## Include
 
